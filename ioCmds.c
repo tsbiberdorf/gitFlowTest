@@ -14,3 +14,10 @@ int32_t ioCmd( char Command)
 		printf("oh no!!");
 	}
 }
+
+int32_t parseCmd( char *Cmd)
+{
+	switch(Cmd)
+	{
+	}
+}
