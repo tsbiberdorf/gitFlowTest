@@ -4,7 +4,9 @@
  */
 
  #include <stdio.h>
- 
+ /*!
+  * Number of hellos to print
+  */
  #define NUM_HELLOS (5)
 
  int32_t main()
